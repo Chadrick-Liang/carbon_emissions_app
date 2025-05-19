@@ -6,7 +6,8 @@ Cross-platform mobile application built with Expo & React Native to help users l
   – Sign up & login with Firebase Auth  
   – “Remember me” via AsyncStorage  
   – Secure logout
-  
+
+<img src="display_image/login.png" alt="Screenshot of login screen" width="400"/>
 ![Screenshot of login screen](display_image/login.png)
 
 - 🌱 **Activity Tracking**  
