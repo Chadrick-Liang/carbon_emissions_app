@@ -7,8 +7,7 @@ Cross-platform mobile application built with Expo & React Native to help users l
   – “Remember me” via AsyncStorage  
   – Secure logout
 
-<img src="display_image/login.png" alt="Screenshot of login screen" width="400"/>
-[comment]: <> (![Screenshot of login screen](display_image/login.png))
+<img src="display_image/login.png" alt="Screenshot of login screen" height = "200"/>
 
 - 🌱 **Activity Tracking**  
   – Choose from a curated list of carbon-saving actions (e.g. bus rides, recycling, ceiling-fan use) or add your own custom activity
