@@ -6,29 +6,34 @@ Cross-platform mobile application built with Expo & React Native to help users l
   – Sign up & login with Firebase Auth  
   – “Remember me” via AsyncStorage  
   – Secure logout
+  
 ![Screenshot of login screen](display_image/login.png)
 
 - 🌱 **Activity Tracking**  
   – Choose from a curated list of carbon-saving actions (e.g. bus rides, recycling, ceiling-fan use) or add your own custom activity
   – Specify duration or quantity to calculate CO₂ saved  
   – Persistent entries in Cloud Firestore
+  
 ![Screenshot of activity tracking](display_image/add_activity.png)
 
 - 📊 **Progress Dashboard**  
   – Weekly / monthly summary of CO₂ saved 
   – Interactive Lottie animation feedback  
   – Capture & share your dashboard snapshot via ViewShot
+
 ![Screenshot of monthly emissions](display_image/emissions.png)
 ![Screenshot of monthly progress](display_image/animation.png)
 
 - 🏆 **Leaderboard**  
   – View top savers globally  
   – Real-time updates from Firestore
+
 ![Screenshot of leaderboard](display_image/leaderboard.png)
 
 - ⚙️ **Settings & FAQ**  
   – Collapsible sections for account info, app tips, and FAQs  
-  – Change user details  
+  – Change user details
+
 ![Screenshot of settings](display_image/settings.png)
 
 
