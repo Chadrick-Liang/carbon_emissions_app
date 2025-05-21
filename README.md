@@ -1,6 +1,14 @@
 # Carbon Footprint Tracker App  
 Cross-platform mobile application built with Expo & React Native to help users log eco-friendly activities, visualize their environmental impact over time, and compete on a global leaderboard.
 
+---
+
+## Collaborators
+
+- Ho Jie Kai
+
+---
+
 # 🚀 Features
 - 🔐 **Authentication**  
   – Sign up & login with Firebase Auth  
